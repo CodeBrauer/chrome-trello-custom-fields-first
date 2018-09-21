@@ -8,6 +8,12 @@ If your custom fields are more important than your description (like for me), th
 
 # Installation
 
+Find it here:<br>
+https://chrome.google.com/webstore/detail/trello-custom-fields-firs/naedcneenmcjdplhffogghfkpifefoko?hl=en
+
+*or the hacky way...*
+
+0. _(I think you have to enable the developer mode for this?)_
 1. Head over to [releases](https://github.com/CodeBrauer/chrome-trello-custom-fields-first/releases)
 2. Download the .crx file from the latest release
 3. Navigate your browser to `chrome://extensions`
